@@ -32,11 +32,11 @@ namespace Ui { class AboutDialog; }  // lines 31-31
 """
 
 removing = None
-includes = dict()
+includes = {}
 
 adding = None
 added = defaultdict(list)
-lcadded = dict()
+lcadded = {}
 
 foundline = None
 
